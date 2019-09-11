@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+2
+a 
+5
+1
+1
+b
+5
+1
+1
+c
+6
+2
+10
+cuadratica
+26
+(-b+sqrt(b^2-4*a*c))/(2*a)
+11
+cuadratica2
+26
+(-b-sqrt(b^2-4*a*c))/(2*a)
+4
+1
+59
+'la raiz X1 es= ',cuadratica,' la raiz X2 es= ',cuadratica2
+1
